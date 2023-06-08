@@ -1,0 +1,20 @@
+[
+{
+    "imagen":"img/carruesel01.jpg",
+    "nombre":"Maquinas",
+    "descripcioon":"Secadora,planchas,risadora,etc",
+    "activar":"active"
+},
+{
+    "imagen":"/img/carrusel02.jpeg",
+    "nombre":"Productos para maquillaje y uñas",
+    "descripcioon":"pinta uñas,uñas acrilicas",
+    "activar":""
+},
+{
+    "imagen":"/img/carrusel03.jpg",
+    "nombre":"Productos para el cabello",
+    "descripcioon":"tratamientos para el cabello , tintes mdecolorantes,etc",
+    "activar":""
+}
+]
